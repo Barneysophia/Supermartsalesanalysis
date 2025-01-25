@@ -10,6 +10,8 @@ The objective of the Supermart project is to analyze and explore grocery sales d
 The Supermart dataset contains data on customer orders, including order ID, product categories, sales, profit, discounts, customer location, and order date, used for sales analysis and performance insights. The dataset includes data on orders placed by customers using a grocery delivery application. It is based on customers living in the state of Tamil Nadu, India.
 
 ### Data Cleaning
+
+🔗 Check out my Power BI Interactive Dashboard here: https://lnkd.in/gcWQUx8J
 ![Powerbi](https://github.com/user-attachments/assets/9869abc0-2dae-43ce-9ca9-92d3193f3884)
 
 ### Key Insights
